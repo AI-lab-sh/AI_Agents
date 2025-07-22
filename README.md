@@ -6,7 +6,7 @@ This repository contains code and resources for building, training, and deployin
 
 ## 🚀 Project Overview
 
-AI agents in this repo are llm models connected to extenal tools to improve their performance 
+AI agents in this repo are llm models connected to extenal tools with frameworks like Langchain to improve their performance.  
 
 
 
